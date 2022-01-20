@@ -1,2 +1,2 @@
 # tc-unix
-Estudos sobre Shell - Basics
+Estudos sobre Shell - Unix
